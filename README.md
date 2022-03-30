@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Leandro Assis</h1>
-<h3 align="center">An aspiring Electronic and Computer Engineer in love with Hardware Architecture, Programming and Signal Processing.</h3>
+<h3 align="center">An aspiring Electronic and Computer Engineer in love with Hardware Architecture, Programming and Electronic.</h3>
 
 - 🔭 I’m currently working on **LASPI/UFRJ - Laboratório de Aplicações Tecnológicas para o Setor Produtivo Industrial.**
 
