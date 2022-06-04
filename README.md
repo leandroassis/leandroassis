@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Leandro Assis</h1>
-<h3 align="center">An aspiring Electronic and Computer Engineer in love with Hardware Architecture, Programming and Electronic.</h3>
+<h3 align="center">An aspiring Electronic and Computer Engineer in love with Hardware Architecture, Programming and Digiatal Electronic.</h3>
 
 - 🔭 I’m currently working on **LASPI/UFRJ - Laboratório de Aplicações Tecnológicas para o Setor Produtivo Industrial.**
 
-- 🌱 I’m currently learning **AI, more about Computer Architecture and assembly programming.**
+- 🌱 I’m currently learning **AI, microprocessors architecture and more about embedded programming.**
 
 - 👯 I’m looking to collaborate on **hardware dedicated projects.**
 
