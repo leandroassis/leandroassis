@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI, microprocessors architecture and more about embedded programming.**
 
-- 👯 I’m looking to collaborate on **hardware dedicated projects.**
+- 👯 I’m looking to collaborate on **embedded projects.**
 
 - 📫 How to reach me **assissantosleandro@gmail.com.**
 
